@@ -7,3 +7,18 @@
 body {
     background: #D6DAC8;
 }
+
+.container {
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 10vw;
+
+}
+
+button {
+    background: #FF7F3E;
+    padding: 1vw;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
