@@ -22,3 +22,19 @@ button {
     border: none;
     outline: none;
 }
+
+.icon1,.icon2 {
+    width: 2vw;
+    text-align: end;
+    margin: 0.5vw;
+    float: right;
+}
+
+.navbar {
+    border: 1px solid red;
+    width: 100%;
+}
+
+p {
+    font-size: 2vw;
+}
