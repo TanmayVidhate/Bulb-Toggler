@@ -38,3 +38,13 @@ button {
 p {
     font-size: 2vw;
 }
+
+.lightColor{
+    background: #D6DAC8; 
+    color: black;
+}
+
+.darkColor{
+    background: black;
+    color: white;
+}
