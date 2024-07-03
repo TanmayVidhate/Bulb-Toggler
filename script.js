@@ -2,12 +2,12 @@ let state = false;
 function bulb_on_off() {
     if (state == false) {
         console.log("on");
-        document.getElementById("bulb1").src = "on.png";
+        document.getElementById("bulb1").src = "./Image/on.png";
         document.getElementById("bulb_name").innerText = "OFF";
         state = true;
     }
     else {
-        document.getElementById("bulb1").src = "off.png";
+        document.getElementById("bulb1").src = "./Image/off.png";
         document.getElementById("bulb_name").innerText = "ON"
         state = false;
     }
